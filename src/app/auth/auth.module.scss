@@ -1,0 +1,16 @@
+.mainWrapper {
+  height: 90vh;
+  margin: auto;
+  border: 1px solid;
+  width: 50vw;
+  display: flex;
+  align-items: center;
+
+  .formWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+  }
+}
